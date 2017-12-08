@@ -87,8 +87,7 @@ public class JavaApplication18 {
       food_x=((int)(Math.random()*48))*10;
       food_y=((int)(Math.random()*46))*10;
       size++;
-      System.out.println(food_x);
-      System.out.println(food_y);
+      
      }
     }
     class myAction extends AbstractAction
